@@ -12,12 +12,12 @@ bot = Client(
 
 
 START_TXT = """
-Hi {}, I'm Forward Tag Remover bot.\n\nForward me some messages, i will remove forward tag from them.\nAlso can do it in channels.\n\n Make your own bot Frome \ncontact here @AIMBOTAXEE 
+Hi {}, I'm Forward Tag Remover bot.\n\nForward me some messages, i will remove forward tag from them.\nAlso can do it in channels.\n\n Make your own bot \ncontact here @AIMBOTAXEE 
 """
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('➕ ADD ME ➕', url='https://t.me/AUTO_AIMbot?startchannel=Bots4Sale&admin=invite_users+manage_chat'),
+        InlineKeyboardButton('➕ ADD ME ➕', url='https://t.me/TAG_REMOVE_AIMBOT?startchannel=Bots4Sale&admin=invite_users+manage_chat'),
         ]]
     )
 
